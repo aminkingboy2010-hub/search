@@ -42,7 +42,7 @@ body {
 .logo {
     font-size: 90px;
     font-weight: bold;
-    color: #4285F4; 
+    color: #f93a7a; 
     letter-spacing: -3px;
     margin-bottom: 30px;
     user-select: none;
@@ -77,13 +77,13 @@ body {
     border-color: rgba(223,225,229,0);
 }
 
-.button-group {
+.buttones-group {
     margin-top: 30px;
     display: flex;
     gap: 12px;
 }
 
-.button-group button {
+.buttones-group button {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
     border-radius: 4px;
@@ -94,7 +94,7 @@ body {
     transition: all 0.2s;
 }
 
-.button-group button:hover {
+.buttones-group button:hover {
     box-shadow: 0 1px 1px rgba(0,0,0,.1);
     border: 1px solid #dadce0;
     color: #202124;
